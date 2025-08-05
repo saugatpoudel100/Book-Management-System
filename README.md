@@ -192,9 +192,7 @@ You can register using the UI or manually create one in Django admin:
 python manage.py createsuperuser
 ```
 ---
-### 📸 Screenshots (optional)
-Add screenshots of your UI: login page, book list, add form.
----
+
 
 
 ## 📂 Future Improvements
